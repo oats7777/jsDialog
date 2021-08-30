@@ -16,7 +16,11 @@
     "dialog",
     "popup"
   ],
-  "author": "",
+  "author": {
+    "name": "oats7777",
+    "email": "hanmin84200@gmail.com",
+    "url": "https://github.com/oats7777"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/oats7777/jsDialog/issues"
