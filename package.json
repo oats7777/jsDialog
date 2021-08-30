@@ -1,5 +1,5 @@
 {
-  "name": "jsdialog",
+  "name": "@oats7777/jsdialog",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,7 @@
     "keywords": [
     "javascript",
     "jsdialog",
+    "dialog",
     "popup"
   ],
   "author": "",
