@@ -14,10 +14,13 @@ const btnDom2 = document.querySelector('.hello2');
 //   },
 // });
 
+const body = document.createElement('div');
+body.innerHTML = 'hello';
+
 btnDom1.addEventListener('click', () => {
   jsDialog.open({
     title: 'hello',
-    body: '세상1',
+    body,
     close: () => {
       console.log('hello');
     },
